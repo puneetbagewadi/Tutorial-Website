@@ -1,0 +1,13 @@
+# Site settings
+title: Tutorial Website
+email: bagewadi.puneet@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+                Sample website using Jekyll
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://example.com" # the base hostname & protocol for your site
+twitter_username: puneet
+github_username:  puneet
+google: puneet
+
+# Build settings
+markdown: kramdown
